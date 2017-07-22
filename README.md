@@ -1,1 +1,3 @@
 # crypto-arb
+
+Get prices from top 5 exchanges, more coming...
